@@ -1,0 +1,17 @@
+C:\Users\Tiffany\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.Form1.resources
+C:\Users\Tiffany\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.csproj.GenerateResource.cache
+C:\Users\Tiffany\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiffany\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Tiffany\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.AssemblyInfo.cs
+C:\Users\Tiffany\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Tiffany\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.sourcelink.json
+C:\Users\Tiffany\source\repos\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0-windows\InventoryManagementSystem.exe
+C:\Users\Tiffany\source\repos\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0-windows\InventoryManagementSystem.deps.json
+C:\Users\Tiffany\source\repos\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0-windows\InventoryManagementSystem.runtimeconfig.json
+C:\Users\Tiffany\source\repos\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0-windows\InventoryManagementSystem.dll
+C:\Users\Tiffany\source\repos\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net8.0-windows\InventoryManagementSystem.pdb
+C:\Users\Tiffany\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.dll
+C:\Users\Tiffany\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\refint\InventoryManagementSystem.dll
+C:\Users\Tiffany\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.pdb
+C:\Users\Tiffany\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\InventoryManagementSystem.genruntimeconfig.cache
+C:\Users\Tiffany\source\repos\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net8.0-windows\ref\InventoryManagementSystem.dll
